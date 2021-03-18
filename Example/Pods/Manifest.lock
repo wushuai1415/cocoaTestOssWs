@@ -1,0 +1,16 @@
+PODS:
+  - cocoaTestOssWs (0.1.0)
+
+DEPENDENCIES:
+  - cocoaTestOssWs (from `../`)
+
+EXTERNAL SOURCES:
+  cocoaTestOssWs:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  cocoaTestOssWs: a256fa7afb59c0d7241fd90e97baab45f9dd58d2
+
+PODFILE CHECKSUM: f8c8835458c580f99058cb6270367e058a13a1bb
+
+COCOAPODS: 1.9.3

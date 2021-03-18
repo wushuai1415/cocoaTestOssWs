@@ -1,0 +1,6 @@
+framework module cocoaTestOssWs {
+  umbrella header "cocoaTestOssWs-umbrella.h"
+
+  export *
+  module * { export * }
+}
