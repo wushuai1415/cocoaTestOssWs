@@ -1,4 +1,6 @@
 
 class Test {
-    
+    func test() {
+        
+    }
 }
